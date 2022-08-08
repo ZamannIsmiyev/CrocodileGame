@@ -4,11 +4,11 @@
   "keywords": ["telegram", "python"],
   "repository": "https://github.com/PatheticProgrammers/CrocodileGame",
   "env": {
-    "BOT_TOKEN": {
+    "BOT_TOKEN": {5582539475:AAGTeDJG5swH15JttBKPLxseynWnMvAFQGc
       "description": "A bot token from @BotFather.",
       "required": true
     },
-    "MONGO_URI": {
+    "MONGO_URI": {mongodb+srv://aylak:aylak@cluster0.cd5my.mongodb.net/Cluster0?retryWrites=true&w=majority
       "description": "A MongoDB URI.",
       "required": true
     }
